@@ -1,0 +1,30 @@
+.profile {
+    background-color: rgb(205, 246, 232);
+    margin: 12px;
+}
+
+.profile-image {
+    border-radius: 5%;
+}
+
+.profile-name-rightside {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.card-radius {
+    border-radius: 2%;
+}
+
+.card-font {
+    font-family: 'Poppins';
+}
+
+.navbar-name {
+    background-color: beige;
+    padding: 6px 20px;
+    margin: 4px;
+    border-radius: 10%;
+    text-decoration: none;
+    font-weight: 500;
+}
